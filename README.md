@@ -1,3 +1,5 @@
+This is just an translation from the [Media Player](https://github.com/Hiroki-Kawakami/Tab5-Media-Player) from [Hiroki Kawakami](https://github.com/Hiroki-Kawakami)
+
 # Tab5-Media-Player
 Play video file on M5Stack Tab5
 
