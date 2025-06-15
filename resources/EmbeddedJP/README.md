@@ -1,6 +1,6 @@
 # EmbeddedJP Font
 
-[IPAexフォント Ver.004.01](https://moji.or.jp/ipafont/ipaex00401/)から[サブセットフォントメーカー](https://opentype.jp/subsetfontmk.htm)を用いて以下の文字のグリフだけを抽出したサブセットフォントです
+The glyphs of the following characters are extracted from [IPAex Font Ver. 004.01](https://moji.or.jp/ipafont/ipaex00401/) using [Subset Font Maker](https://opentype.jp/subsetfontmk.htm). Only the glyphs of the following characters are extracted from [IPAex Font Ver. 004.01].
 
 ```
 abcdefghijklmnopqrstuvwxyz
